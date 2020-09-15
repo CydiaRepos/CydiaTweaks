@@ -6,5 +6,5 @@ Description: A theme with future icons!
 Author: Danipro2010YT
 Maintainer: CydiaTweaks
 Filename: ./debs/FutureTheme/theme-1.0-futuretheme.deb
-Depends: com.anemonetheming.anemone | com.spark.snowboard
 Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
