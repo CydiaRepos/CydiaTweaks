@@ -11,7 +11,7 @@ Depends: mobilesubstrate (>= 0.9.5000)
 
 Package: com.danipro2010yt.transparentdock
 Name: Transparent Dock
-Version: 1.0
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Description: Make the Dock Transparent!
 Maintainer: Danipro2010YT
