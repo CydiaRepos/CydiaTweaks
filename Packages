@@ -8,3 +8,13 @@ Author: Danipro2010YT
 Filename: debs/com.danipro2010yt.icustom_0.0.1-1+debug_iphoneos-arm.deb
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+
+Package: com.danipro2010yt.transparentdock
+Name: Transparent Dock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Make the Dock Transparent!
+Maintainer: Danipro2010YT
+Author: Danipro2010YT
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
