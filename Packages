@@ -1,10 +1,10 @@
-Package: com.danipro2010yt.futuretheme
-Name: Future Theme
-Version: 1.0
+Package: com.danipro2010yt.icustom
+Name: iCustom
+Version: 0.0.1
 Architecture: iphoneos-arm
-Description: A theme with future icons!
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Danipro2010YT
 Author: Danipro2010YT
-Maintainer: CydiaTweaks
-Filename: debs/FutureTheme/theme-1.0-futuretheme.deb
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Section: Themes
+Filename: ./debs/com.danipro2010yt.icustom_0.0.1-1+debug_iphoneos-arm.deb
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
