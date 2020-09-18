@@ -5,6 +5,6 @@ Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
 Maintainer: Danipro2010YT
 Author: Danipro2010YT
-Filename: ./debs/com.danipro2010yt.icustom_0.0.1-1+debug_iphoneos-arm.deb
+Filename: debs/com.danipro2010yt.icustom_0.0.1-1+debug_iphoneos-arm.deb
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
