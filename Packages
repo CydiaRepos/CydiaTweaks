@@ -1,12 +1,12 @@
 Package: com.danipro2010yt.icustom
-Version: 1.0-1+debug
+Version: 1.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: CydiaTweaks
-Filename: /com.danipro2010yt.icustom_1.0-1+debug_iphoneos-arm.deb
-Size: 9612
-MD5sum: b81ad23f2db77592d5abe7e201c351eb
-SHA1: 311a476c9bdaf44346478dbbf51a26763644022e
-SHA256: 7e6aa85c8bf2c502282849d2b4883cd190ba1958a365dcc460e1bb65d23bbdda
+Filename: /com.danipro2010yt.icustom_1.1-2+debug_iphoneos-arm.deb
+Size: 10266
+MD5sum: 9a02b97f839693d1771ec33e9fdd1090
+SHA1: b29fbee782ab6a1e75c95486bac32ef2c9e81336
+SHA256: a022cce69f2ea537f238d3df53fd1fe9f3a65df68ccd95a26fe1f0d65649debe
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Description: A tweak that allows you to customize your iDevice however you want!
