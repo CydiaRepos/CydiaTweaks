@@ -1,23 +1,14 @@
 Package: com.danipro2010yt.icustom
-Name: iCustom
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Danipro2010YT
-Author: Danipro2010YT
-Filename: debs/com.danipro2010yt.icustom_0.0.1-1+debug_iphoneos-arm.deb
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-
-Package: com.danipro2010yt.transparentdock
-Name: Transparent Dock
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
-Description: Make the Dock Transparent!
-Maintainer: Danipro2010YT
-Author: Danipro2010YT
+Maintainer: CydiaTweaks
+Filename: /com.danipro2010yt.icustom_1.0-1+debug_iphoneos-arm.deb
+Size: 9612
+MD5sum: b81ad23f2db77592d5abe7e201c351eb
+SHA1: 311a476c9bdaf44346478dbbf51a26763644022e
+SHA256: 7e6aa85c8bf2c502282849d2b4883cd190ba1958a365dcc460e1bb65d23bbdda
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
-MD5sum: 632dda2a71b4606e0f0589f7c8d17083
-SHA1: 4ffabf744bb3ce401e2527ad512cbe2c4a305da4
-SHA256: 2c215f17a80fecb4793f3ea17a4a6642b8820d7125f662fd407625dcc10c8642
+Description: A tweak that allows you to customize your iDevice however you want!
+Author: Danipro2010YT <danipro2010yt@gmail.com>
+Name: iCustom
