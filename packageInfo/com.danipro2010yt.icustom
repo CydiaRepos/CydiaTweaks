@@ -1,0 +1,9 @@
+{
+	"name": "iCustom",
+	"desc_short": "A tweak that allows you to customize your iDevice however you want!",
+	"desc_long": " ",
+	"compatitle": "iOS 11, 12 and 13",
+	"changelog": "<strong>1.1-2+debug</strong><br>+ Make the Dock Rounded as a iPhone with Notch<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/l4RbMak.png' target='_blank'><br></div>",
+	"open": true,
+}
