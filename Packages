@@ -11,6 +11,7 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Description: A tweak that allows you to customize your iDevice however you want!
 Author: Danipro2010YT <danipro2010yt@gmail.com>
+Depiction: https://cydiarepos.github.io/CydiaTweaks/description.html?id=com.danipro2010yt.icustom
 Name: iCustom
 
 Package: com.danipro2010yt.windows10theme
@@ -26,4 +27,5 @@ Section: Themes
 Depends: com.spark.snowboard
 Description: A Theme with Windows 10 Icons.
 Author: Danipro2010YT <danipro2010yt@gmail.com>
+Depiction: https://cydiarepos.github.io/CydiaTweaks/description.html?id=com.danipro2010yt.windows10theme
 Name: Windows 10 Theme
