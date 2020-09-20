@@ -12,3 +12,18 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Description: A tweak that allows you to customize your iDevice however you want!
 Author: Danipro2010YT <danipro2010yt@gmail.com>
 Name: iCustom
+
+Package: com.danipro2010yt.windows10theme
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Danipro2010YT <danipro2010yt@gmail.com>
+Filename: /Windows10Theme.deb
+Size: 78694
+MD5sum: 5f8fc6aa9ed21d4faf93f65a6ab45aab
+SHA1: fdfc76a75b014b6ffd553b0d5ab8b032339db954
+SHA256: 95c0a036fe394eab0d6fb835c60edf1ddbc2a4b514855354d34bc2aff8325236
+Section: Themes
+Depends: com.spark.snowboard
+Description: A Theme with Windows 10 Icons.
+Author: Danipro2010YT <danipro2010yt@gmail.com>
+Name: Windows 10 Theme
