@@ -12,12 +12,12 @@
             <h2 role="header">CydiaTweaks Repo /  Upload</h2>
         
         <h2 role="header">Name</h2>
-        <input type="text" placeholder="Enter here the name of your Tweak or Theme" name="name" id="name" style="border: none;border-radius: 4px;height: 40px;width: 705px;padding-left: 10px;">
+        <input type="text" placeholder="Enter here the name of your Tweak or Theme" name="name" id="name" style="border: none;border-radius: 4px;height: 40px;width: 705px;padding-left: 10px;" required>
         <h2 role="header">Short descripcion</h2>
-        <input type="text" placeholder="Enter here a short descripcion for your Tweak or Theme" name="name" id="name" style="border: none;border-radius: 4px;height: 40px;width: 705px;padding-left: 10px;">
+        <input type="text" placeholder="Enter here a short descripcion for your Tweak or Theme" name="name" id="name" style="border: none;border-radius: 4px;height: 40px;width: 705px;padding-left: 10px;" required>
        
         <h2 role="header">Descripcion</h2>
-        <input type="text" placeholder="Enter here a descripcion for your Tweak or Theme" name="name" id="name" style="border: none;border-radius: 4px;height: 40px;width: 705px;padding-left: 10px;">
+        <input type="text" placeholder="Enter here a descripcion for your Tweak or Theme" name="name" id="name" style="border: none;border-radius: 4px;height: 40px;width: 705px;padding-left: 10px;" required>
        
         <h2 role="header">deb file</h2>
         <ul>
@@ -25,7 +25,7 @@
                 <a role="button">
 
                     <img style="border-radius: 20%;" href="file.png" alt="" srcset="file.png 2x, file.png 3x" class="icon">
-                <input type="file" id="deb" accept=".deb" name="deb">
+                <input type="file" id="deb" accept=".deb" name="deb" required>
 
                 </a>
                 
@@ -40,7 +40,7 @@
                 <a role="button">
 
                     <img style="border-radius: 20%;" href="file-icon.jpg" alt="" srcset="file-icon.jpg 2x, file-icon.jpg 3x" class="icon">
-                <input type="file" id="control" name="control">
+                <input type="file" id="control" name="control" required>
 
                 </a>
                 
@@ -51,7 +51,6 @@
     border: none;
     background: #7d80f9;
     color: white;
-    font: 17px -apple-system-font,&quot;.Helvetica NeueUI&quot;,&quot;Helvetica Neue&quot;,sans-serif;
     width: 250px;
     height: 40px;
     border-radius: 4px;
